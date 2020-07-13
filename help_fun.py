@@ -14,7 +14,6 @@ def mkdir_p(mypath):
         else: raise
 
 #Smooth labels
-
 def smooth_positive_labels(y):
     return y - 0.1 + (np.random.random(y.shape)*0.5)
 
