@@ -1,7 +1,7 @@
 tensorboard==1.14.0
 tensorflow==2.5.3
 tensorflow-estimator==1.14.0
-numpy==1.16.4
+numpy==1.21.0
 pickleshare==0.7.5
 cloudpickle==1.2.1
 h5py==2.9.0
